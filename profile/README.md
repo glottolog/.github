@@ -1,5 +1,3 @@
-# Glottolog
-
 The repositories in this organization are related to data management for [Glottolog](https://glottolog.org):
 - The "raw" data is curated in [glottolog/glottolog](https://github.com/glottolog/glottolog)
 - A derived CLDF dataset is maintained in [glottolog/glottolog-cldf](https://github.com/glottolog/glottolog-cldf)
